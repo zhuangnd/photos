@@ -6,3 +6,5 @@
 演化并非“适者生存”，而是自然选择
 
 人类才是上帝，人类正在进行创世纪的进程，一切人造物、人造环境
+![](https://raw.githubusercontent.com/zhuangnd/photos/master/IMG_0012.JPG)
+END
