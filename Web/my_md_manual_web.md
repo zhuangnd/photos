@@ -102,9 +102,9 @@ for number in range(1,11)
 ###图片  
 ####markdown
 ```markdown
-![usa](https://zhuangnd.github.io/gallery/usa/DSC01362.jpg)
+![usa](https://zhuangnd.github.io/gallery/usa/images/large/DSC01362.jpg)
 ```
-![usa](https://zhuangnd.github.io/gallery/usa/DSC01362.jpg)
+![usa](https://zhuangnd.github.io/gallery/usa/images/large/DSC01362.jpg)
 ####html
 ```html
 width
@@ -118,17 +118,17 @@ div align center
 </div>
 ```
 #####width px
-<img src="https://zhuangnd.github.io/gallery/usa/DSC01622.jpg" width="400px" />
+<img src="https://zhuangnd.github.io/gallery/usa/images/large/DSC01622.jpg" width="400px" />
 #####style zoom
-<img src="https://zhuangnd.github.io/gallery/usa/DSC01850.jpg" style="zoom:50%;" />
+<img src="https://zhuangnd.github.io/gallery/usa/images/large/DSC01850.jpg" style="zoom:50%;" />
 #####div align center  
-```html
-<div align=center>
-	<p><strong>居中对齐</strong></p>
-	<image src="https://zhuangnd.github.io/gallery/usa/DSC01623.jpg" width=50% />
-</div>  
-```
 
+<div align=center>
+<p><strong>居中对齐</strong></p>
+<img src="https://zhuangnd.github.io/gallery/usa/images/large/DSC01835.jpg" width="80%" />
+</div>  
+
+<img src="http://zhuangnd.github.io/gallery/usa/images/large/DSC01835.jpg" width = "400" align=center />
 ---
 ###数学公式
 ####单行公式
